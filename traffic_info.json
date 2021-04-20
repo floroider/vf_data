@@ -1,0 +1,24 @@
+{
+   "trafficsituations":{
+      "jam but the fastest route":{
+         "traffic":"I am afraid a traffic jam has occurred on your current route.",
+         "delay":"It causes a delay of 9 minutes.",
+         "summary":"You are still on the fastest route."
+      },
+      "traffic jam and not the fastest route":{
+         "traffic":"I am afraid a traffic jam has occurred on your current route.",
+         "delay":"It causes a delay of 20 minutes.",
+         "summary":"You are no longer on the fastest route."
+      },
+      "full blockage":{
+         "traffic":"I am afraid a full blockage has occurred on your current route.",
+         "delay":"It causes a delay of at least 120 minutes.",
+         "summary":"You are no longer on the fastest route."
+      },
+      "no traffic":{
+         "traffic":"There are no traffic jams on your route.",
+         "delay":"No delay is expected.",
+         "summary":"You are on the fastest route."
+      }
+   }
+}
