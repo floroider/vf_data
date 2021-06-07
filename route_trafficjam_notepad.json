@@ -210,22 +210,18 @@
                       ],
                       "voiceInstructions":[
                          {
-                            "ssmlAnnouncement":"<speak><amazon:effect name=""drc""><prosody rate="1.08">Drive north on A9.</prosody></amazon:effect></speak>",
                             "announcement":"Drive north on A9.",
                             "distanceAlongGeometry":3114.537
                          },
                          {
-                            "ssmlAnnouncement":"<speak><amazon:effect name=""drc""><prosody rate="1.08">In 2 miles, Your destination will be on the right.</prosody></amazon:effect></speak>",
                             "announcement":"In 2 miles, Your destination will be on the right.",
                             "distanceAlongGeometry":3079.537
                          },
                          {
-                            "ssmlAnnouncement":"<speak><amazon:effect name=""drc""><prosody rate="1.08">In a half mile, Your destination will be on the right.</prosody></amazon:effect></speak>",
                             "announcement":"In a half mile, Your destination will be on the right.",
                             "distanceAlongGeometry":804.672
                          },
                          {
-                            "ssmlAnnouncement":"<speak><amazon:effect name=""drc""><prosody rate="1.08">Your destination is on the right.</prosody></amazon:effect></speak>",
                             "announcement":"Your destination is on the right.",
                             "distanceAlongGeometry":145.833
                          }
