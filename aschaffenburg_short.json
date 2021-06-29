@@ -4,7 +4,7 @@
       "distance": 369424.688,
       "duration": 13475.197,
       "durationTypical": 12927.371,
-      "routeIndex": "0",
+      "routeIndex": "1",
       "routeOptions": {
         "accessToken": "pk.eyJ1Ijoia2h1ZWJuZXIiLCJhIjoiY2s5bDV6cXp4MDFsNTNmb2h5d3ZrZnFyNCJ9.8b5HC5EQW6Q0cf0eFAjgZw",
         "alternatives": true,
@@ -50,6 +50,51 @@
       "duration": 5475.07,
       "durationTypical": 12927.371,
       "routeIndex": "0",
+      "routeOptions": {
+        "accessToken": "pk.eyJ1Ijoia2h1ZWJuZXIiLCJhIjoiY2s5bDV6cXp4MDFsNTNmb2h5d3ZrZnFyNCJ9.8b5HC5EQW6Q0cf0eFAjgZw",
+        "alternatives": true,
+        "annotations": "congestion,closure,distance",
+        "bannerInstructions": true,
+        "baseUrl": "https://api.mapbox.com",
+        "bearings": "0,45;",
+        "continueStraight": false,
+        "coordinates": [
+          {
+            "coordinates": [
+              11.179998333333334,
+              48.149998333333336
+            ],
+            "type": "Point"
+          },
+          {
+            "coordinates": [
+              9.23851,
+              50.00817
+            ],
+            "type": "Point"
+          }
+        ],
+        "geometries": "polyline6",
+        "language": "en",
+        "overview": "full",
+        "profile": "driving-traffic",
+        "requestUuid": "Np3WhNtGG0sgs7oV3yTweoPYrflP5DSWy6zhq3oyn0TxqSD_I1EuyA==",
+        "roundaboutExits": true,
+        "snappingClosures": "true;true",
+        "steps": true,
+        "user": "khuebner",
+        "voiceInstructions": true,
+        "voiceUnits": "metric"
+      },
+      "voiceLanguage": "en-US",
+      "weight": 12640.764,
+      "weightName": "auto"
+    },
+	{
+      "distance": 424.688,
+      "duration": 475.07,
+      "durationTypical": 12927.371,
+      "routeIndex": "2",
       "routeOptions": {
         "accessToken": "pk.eyJ1Ijoia2h1ZWJuZXIiLCJhIjoiY2s5bDV6cXp4MDFsNTNmb2h5d3ZrZnFyNCJ9.8b5HC5EQW6Q0cf0eFAjgZw",
         "alternatives": true,
