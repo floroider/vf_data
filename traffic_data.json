@@ -16,25 +16,13 @@
 "route2vs3": -278.20700000000033
 }
 },
-"fastest_route": 1,
-"shortest_route": 2,
+"fastest_route": 2,
+"shortest_route": 1,
 "full_blockage": false,
 "route_count": 3,
 "trafficsit": "jam_not_fastest_route"
 },
 "routes": [
-{
-"color": "",
-"count_maneuvers": 22,
-"delay": -16.630150000000018,
-"distance": 352111.469,
-"duration": 13415.681,
-"durationTypical": 12417.872,
-"number_construction": 7,
-"number_incidents": 11,
-"route_number": "0",
-"weight": 12329.05
-},
 {
 "color": "",
 "count_maneuvers": 31,
@@ -46,6 +34,18 @@
 "number_incidents": 7,
 "route_number": "2",
 "weight": 13012.14
+},
+{
+"color": "",
+"count_maneuvers": 22,
+"delay": -16.630150000000018,
+"distance": 352111.469,
+"duration": 13415.681,
+"durationTypical": 12417.872,
+"number_construction": 7,
+"number_incidents": 11,
+"route_number": "0",
+"weight": 12329.05
 },
 {
 "color": "",
